@@ -18,7 +18,7 @@
     display: block;
     color: black;
     padding: 50px 16px;
-    font-size: 25px;
+    font-size: 30px;
     text-decoration: none;
       }
 .navbarbutton:hover {
@@ -32,7 +32,7 @@
 	display: block;
     color: greenyellow;
     padding: 50px 16px;
-    font-size: 25px;
+    font-size: 30px;
     text-decoration: none;
 }
 .activenavbarbutton:hover {
