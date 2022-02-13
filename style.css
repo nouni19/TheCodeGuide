@@ -1,0 +1,46 @@
+#mainheader{
+	height: 50px;
+	background-color: darkblue;
+}
+#mainheadertext{
+	text-align: center;
+	color: greenyellow;
+	font: 30px Georgia, serif;
+}
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: darkcyan;
+      }
+.navbarbutton {
+    display: block;
+    color: black;
+    padding: 50px 16px;
+    font-size: 25px;
+    text-decoration: none;
+      }
+.navbarbutton:hover {
+    background-color: orangered;
+      }
+
+.icon {
+    margin-right: 40px;
+      }
+.activenavbarbutton {
+	display: block;
+    color: greenyellow;
+    padding: 50px 16px;
+    font-size: 25px;
+    text-decoration: none;
+}
+.activenavbarbutton:hover {
+    background-color: orangered;
+      }
+/* MAIN TEXT! */
+
+.maintext{
+	margin-left: 210px;
+	font-size: 25px;
+}
